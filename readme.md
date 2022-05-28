@@ -1,6 +1,15 @@
 # E-commerce API - Backend Course - Coderhouse 30940
 Simple API to do CRUD operations on products and carts.
 
+
+## Storage
+You can choose between 5 methods for save your information. All of these methods work in localhost.
+1. File System (default)
+2. MariaDB (ecommerce DB is required before initialization)
+3. SQLite3 (ecommerce DB is required before initialization)
+4. MongoDB
+5. Firestore (firebase configuration file is required).
+
 ## Products
 
 <details>
